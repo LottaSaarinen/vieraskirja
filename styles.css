@@ -1,0 +1,25 @@
+body {
+    color: rgb(18, 51, 75);
+    background: linear-gradient(to right,  #f78d8d 0%,#fcfdfd 50%, #89f5d1 100%);
+    
+  font-family: "Oleo Script", system-ui;
+  font-weight: 200;
+  font-style: normal;
+    max-width: auto;
+    widht: 90%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto; 
+    align-items: center;
+text-align: center;
+         }
+
+
+    h1 {
+
+font: size 7px;
+
+margin: 0em 2em 0em 0em;
+
+}
